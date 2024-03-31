@@ -31,7 +31,7 @@ export default function Home() {
                 <h1 className={styles.normalText}>Hello My Name is Sumedh</h1>
               </Fade>
               <Fade direction='right' triggerTwice>
-                <h2 className={styles.para}><b>I'm a WebDeveloper</b></h2><br/>
+                <h2 className={styles.para}><b>I'm a WebDeveloper: &apos;</b></h2><br/>
                 </Fade> 
                 <div className={styles.Btncontainer}>
                   <button className={styles.Btn} onclick="window.open('./SumedhNaidu_BE_ComputerScienceEngineering_2023_JavaFullStack _Resume.pdf')">
